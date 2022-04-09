@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: var(--primary-color);
+}
+:root{
+  --accent-color:#fa510f;
+  --primary-color:#101f3c;
+}
+.header{
+ text-align: center;
+ color: #fff;
+ font-size: 2rem;
+ margin-top: 400px;
+
+}
+.header span{
+  color:var(--accent-color)
+}
+.header h1{
+  text-transform: uppercase;
+}
